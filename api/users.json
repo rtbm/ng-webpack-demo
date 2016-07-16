@@ -1,0 +1,36 @@
+[{
+  "id": 1,
+  "name": "John",
+  "surname": "Doe",
+  "date_of_birth": 1468475346000,
+  "mobile_number": "666777888",
+  "address": "Poznan, Dluga 2"
+},{
+  "id": 2,
+  "name": "Jane",
+  "surname": "Doe",
+  "date_of_birth": 1462675346000,
+  "mobile_number": "636577888",
+  "address": "Poznan, Dluga 2"
+},{
+  "id": 3,
+  "name": "Casual",
+  "surname": "Joe",
+  "date_of_birth": 1468375346000,
+  "mobile_number": "666787338",
+  "address": "Poznan, Dluga 20"
+},{
+  "id": 4,
+  "name": "Jack",
+  "surname": "Daniels",
+  "date_of_birth": 1465675346000,
+  "mobile_number": "666777882",
+  "address": "Poznan, Dluga 22"
+},{
+  "id": 5,
+  "name": "Johnny",
+  "surname": "Walker",
+  "date_of_birth": 1468665346000,
+  "mobile_number": "665776888",
+  "address": "Poznan, Dluga 21"
+}]
